@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244668665485",
+    "project_id": "kutirakone-8dd2a",
+    "storage_bucket": "kutirakone-8dd2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244668665485:android:014646aacbd5b8facd5cc4",
+        "android_client_info": {
+          "package_name": "com.example.kutirakone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChU9SNPlkoV6rJ2An96qDGPjvYuD84U6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
